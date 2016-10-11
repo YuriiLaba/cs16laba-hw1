@@ -219,20 +219,4 @@ public class TemperatureSeriesAnalysis {
     }
 
 
-
-
-    public static void main(String[] args){
-        double bucky[] = {1,2,3};
-        TemperatureSeriesAnalysis obj1 = new TemperatureSeriesAnalysis(bucky);
-        //System.out.println(obj1.average());
-        //System.out.println(average());
-        //System.out.println(obj1.min());
-        //System.out.println(max(bucky));
-        //System.out.println(obj1.findTempClosestToZero());
-        //System.out.println(obj1.findTempClosestToValue(3));
-        //System.out.println(obj1.findTempsLessThen(1.0));
-        //System.out.println(obj1.findTempsGreaterThen(1.0));
-        //System.out.println(obj1.deviation());
-        //System.out.println(obj1.addTemps(4,68));
-    }
 }
